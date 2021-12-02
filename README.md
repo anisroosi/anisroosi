@@ -1,4 +1,4 @@
-# Anisroosi&nbsp;<img src="https://github.com/anisroosi/anu/blob/main/Aktiva/happy.gif" width="30px">
+# Anisroosi&nbsp;<img src="https://github.com/anisroosi/anu/blob/main/Aktiva/happy%20no%20bg.gif" width="30px">
 
 
 - 👋 Hi, I’m @anisroosi
